@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Scarlett's Universe"
 author_profile: true
 redirect_from: 
   - /about/
