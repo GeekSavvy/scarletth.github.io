@@ -1,9 +1,9 @@
 ---
 title: "Portfolio"
-# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+
 collection: portfolio
 ---
 
 Welcome to my virtual playground 📻, where I, Scarlett H, am attempting to navigate the digital universe armed with nothing but a laptop and a steady supply of coffee. 
 
-As a fresh-faced developer 🌱, I'm eagerly concocting my own brand of magic using Python spells and HTML potions 🧙‍♂️. From crafting pixel-perfect websites that even my grandma would approve of to dreaming up apps that might just revolutionize how we procrastinate. I'm here to learn, grow, and sprinkle a bit of coding whimsy wherever I go 📖. So buckle up, because this coding adventure is just getting started! 🚀🚀. 
+As a fresh-faced developer 🌱, I'm eagerly concocting my own brand of magic using Python spells and HTML potions 🧙‍♂️. From crafting pixel-perfect websites that even my grandma would approve of to dreaming up apps that might just revolutionize how we procrastinate. I'm here to learn, grow, and sprinkle a bit of coding whimsy wherever I go 📖. So buckle up, because this coding adventure is just getting started! 🚀🚀.
