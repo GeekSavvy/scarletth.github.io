@@ -12,7 +12,8 @@ title                    : "Scarlett's HomePage"
 title_separator          : "-"
 name                     : &name "Scarlett H"
 description              : &description "personal description"
-url                      : https://geeksavvy.github.io/scarletth.github.io/ 
+url                      : https://geeksavvy.github.io/scarletth.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GeekSavvy/scarletth.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -38,7 +39,6 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "GeekSavvy"
-  linkedin         : "scarlett-h-16aa6a314"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -52,6 +52,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
+  
   mastodon         : # URL
   medium           : # URL
 
