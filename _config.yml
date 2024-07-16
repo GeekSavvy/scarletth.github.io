@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Scarlett"
+title                    : "Scarlett's HomePage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Scarlett H"
 description              : &description "personal description"
 url                      : https://geeksavvy.github.io/scarletth.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "GeekSavvy/scarletth.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Scarlett's Homepage"
+  name             : "Scarlett H"
   linkedin         : "www.linkedin.com/in/scarlett-h-16aa6a314"  
   bio              : "Code maestro, crafting Python magic."
   location         : "Germany"
